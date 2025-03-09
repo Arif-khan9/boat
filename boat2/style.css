@@ -62,13 +62,14 @@ border: 2px solid #FFF;
 }
 .container{
     height: 90px;
-    background-color: #fff;
+    background-color: gainsboro;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0px 40px;
     position: sticky;
     top: 0px;
+
 }
 .logo2{
     height: 70px;
